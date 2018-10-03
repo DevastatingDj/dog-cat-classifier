@@ -3,7 +3,7 @@ A dog and cat classifier with an accuracy of 79%. It is written in python using 
 
 ## Getting started
 You must first need to train your model on a dataset of cats and dogs. The images of cats and dogs must be in separate folders
-and add those images to the training set and test set. By default the directory structure is 'dataset/trainging_set' and
+and add those images to the training set and test set. By default the directory structure is 'dataset/training_set' and
 'dataset/test_set'
 
 ## Prerequisites
