@@ -1,10 +1,3 @@
-# Convolutional Neural Network for Image processing
-# Dhananjai Sharma
-# A2305216430
-# 5CSE 6-Y
-
-# Building the CNN
-
 # Importing the Keras libraries and packages
 from keras.models import Sequential
 from keras.layers import Conv2D
