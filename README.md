@@ -2,7 +2,7 @@
 A dog and cat classifier created using convolutional neural networks using the library keras in python.The model uses adam as optimizer and accuracy as metric. The model achieved a test set accuracy of 85%.
 
 ## Setup
-Building this projects requires Python3 to run the script CODE/kerasModel.py . The model is trained and saved in the file CODE/trained_model.h5 .
+Building this projects requires Python3 to run the script Code/kerasModel.py . The model is trained and saved in the file Code/trained_model.h5 .
 
 ## Dependecies
  the following python packages:
