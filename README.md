@@ -5,7 +5,7 @@ A dog and cat classifier created using convolutional neural networks using the l
 Building this projects requires Python3 to run the script Code/kerasModel.py . The model is trained and saved in the file Code/trained_model.h5 .
 
 ## Dependecies
- the following python packages:
+ The following python packages need to be installed for the script kerasModel.py to work:
 
 * Keras
 * PIL
